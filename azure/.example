@@ -1,2 +1,2 @@
-PROJECT_ENDPOINT="https://"
+PROJECT_ENDPOINT="https://" 
 MODEL_DEPLOYMENT_NAME="gpt-4.1-mini"
